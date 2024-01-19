@@ -8,6 +8,7 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 
 
 # Projects
+
 ## Predicting Business Success Using Machine Learning and Data Analysis
 - This project aims to develop a Machine Learning model that predicts the success of startups accros the world. The prediction is based on various features including total funding received, location, and funding rounds. The model was developed after an extensive review of existing literature discussing the factors influencing startup success and the role of Machine Learning in business predictions.
   
@@ -25,6 +26,8 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 
   #### Result
   - The trained model was integrated into a user-friendly web application using Streamlit to help various stakeholders in making data-driven decisions, thus reducing the risks associated with startup investments and contributing to the growth of a successful startup ecosystem.
+
+
 
 
 
@@ -55,9 +58,51 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 #### Result
 - From the above dashboard, the UK is seen to have much more incidents than the EU, even though they worked less hours that year. We also see a difference in the work processes that resulted in the most incidents.
 
-Out of the 983 incidents in 2016, 11.8% resulted in a serious consequence. However only 10 ( 1% of total incidents) required emergency medical evacuation. There were also no fatalities that year. 
+- Out of the 983 incidents in 2016, 11.8% resulted in a serious consequence. However only 10 ( 1% of total incidents) required emergency medical evacuation. There were also no fatalities that year. 
 
-In terms of the potential of a incident occuring, 16% of incidents that were marked as NOT having a high potential actually resulted in serious injuries. 
+- In terms of the potential of a incident occuring, 16% of incidents that were marked as NOT having a high potential actually resulted in serious injuries.
+
+
+## PREDICTING THE SEVERITY OF ROAD ACCIDENTS IN THE UK
+
+- This project aims to predict accident severity using traditional machine learning algorithms and neural networks. The dataset used in this project is derived from the UK Department for Transport, consisting of road accidents in the UK from 2005 to 2014.
+
+#### Overview
+- The project consists of four main parts:
+
+- Data Preprocessing
+- Classification using Traditional Machine Learning
+- Classification using Neural Networks
+- Model Evaluation and Comparison
+
+
+#### Data Preprocessing
+- Data preprocessing involved cleaning and preparing the data for analysis. The main steps involved were:
+- Data cleaning: removing duplicates, handling missing values, and correcting inconsistencies.
+- Feature engineering: creating new features and transforming existing ones to improve model performance.
+- Data splitting: dividing the dataset into training and testing sets.
+- 
+#### Classification using Traditional Machine Learning
+- Several traditional machine learning algorithms were employed to classify accident severity into three categories: "fatal," "serious," and "slight." The classification algorithms used were:
+
+- SGD Classifier
+- Logistic Regression
+- Naïve Bayes
+- Random Forest
+- Decision Tree
+- k-Nearest Neighbour
+- Hyperparameters for each algorithm were optimized using grid search with cross-validation. Model performance was evaluated using confusion matrices and performance metrics, including accuracy and precision.
+
+#### Classification using Neural Networks
+- A multi-layer perceptron (MLP) model was created for classifying accident severity. The neural network model was optimized using a grid search over various hyperparameters, including learning rate and the number of hidden layer nodes. Model performance was evaluated using confusion matrices, performance metrics, and comparison with a trivial baseline.
+
+#### Model Evaluation and Comparison
+- The performance of traditional machine learning algorithms and the neural network model was compared based on their accuracy and precision. The Neural Network model achieved the highest performance metrics, with an accuracy of 0.78. The learning curve of the Neural Network model was also analyzed to further investigate its performance.
+
+#### Conclusion
+- The Neural Network model provided the most credible and accurate solution for determining accident severity. It outperformed traditional machine learning algorithms in terms of accuracy and precision, making it the best choice for predicting accident severity in this dataset.
+
+
 
 
 
