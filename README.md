@@ -95,7 +95,7 @@ This action helps the model perform better when applied to underrepresented clas
 - Decision Tree
 - k-Nearest Neighbour
 - Hyperparameters for each algorithm were optimized using grid search with cross-validation. Model performance was evaluated using confusion matrices and performance metrics, including accuracy and precision.
-![Startup Image](/accident/Px4.png)
+![Startup Image](/accident/px4.png)
 
 #### Classification using Neural Networks
 - A multi-layer perceptron (MLP) model was created for classifying accident severity. The neural network model was optimized using a grid search over various hyperparameters, including learning rate and the number of hidden layer nodes. Model performance was evaluated using confusion matrices, performance metrics, and comparison with a trivial baseline.
