@@ -83,7 +83,7 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 - Data splitting: dividing the dataset into training and testing sets.
 - Over Sampling: Oversampling method was used to balance the distribution of the target variable in the training set. Synthetic Minority Over-sampling Technique (SMOTE) is used to resolve any class imbalances in the dataset. 
 This action helps the model perform better when applied to underrepresented classes. 
-![image](https://github.com/dnllens/dnllens.github.io/assets/67906668/ae44b08c-b1e9-48d1-bea3-444792a99a7a)
+![Startup Image](/accident/Px5.png)
 
 #### Classification using Traditional Machine Learning
 - Several traditional machine learning algorithms were employed to classify accident severity into three categories: "fatal," "serious," and "slight." The classification algorithms used were:
@@ -95,6 +95,7 @@ This action helps the model perform better when applied to underrepresented clas
 - Decision Tree
 - k-Nearest Neighbour
 - Hyperparameters for each algorithm were optimized using grid search with cross-validation. Model performance was evaluated using confusion matrices and performance metrics, including accuracy and precision.
+![Startup Image](/accident/Px4.png)
 
 #### Classification using Neural Networks
 - A multi-layer perceptron (MLP) model was created for classifying accident severity. The neural network model was optimized using a grid search over various hyperparameters, including learning rate and the number of hidden layer nodes. Model performance was evaluated using confusion matrices, performance metrics, and comparison with a trivial baseline.
