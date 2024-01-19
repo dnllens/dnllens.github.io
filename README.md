@@ -1,10 +1,10 @@
-# Data Scientist
+# Data Scientist | Data Analyst
 
-#### Technical Skills: Python, SQL, Machine Learning, Data Visualisation(PowerBI, Tableau), R
+## About Me
+- An accomplished Data Scientist, I bring over three years of specialised experience, underscored by a Master of Data Science with Distinction from the University of Greenwich. Building strong relational databases and implementing advanced machine-learning models are two of my areas of expertise. I am skilled at turning complex datasets into useful insights using various cutting-edge technologies, including Python, SQL, Tableau, PowerBi, and Excel.
+I'm seeking a position as a data analyst and I am excited to put my broad skill set to use guiding creative projects and navigating complex business obstacles. My dedication is to use data to inform strategic choices and produce observable outcomes.
 
-## Education						       		
-- M.Sc, Data Science	| University of Greenwich (Sept 2022_)	 			        		
-- B.Sc, Computer Science | FUNAAB (_Sept 2019_)
+
 
 
 ## Projects
