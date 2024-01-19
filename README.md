@@ -17,3 +17,24 @@
 #### Methodology
 - The project involved a series of steps:
 ![Startup Image](/Startup11/img/Picture1.png)
+
+#### Analysis and Visualisation
+- In Order to better understand the dataset, Analysis where carried out on the data and here are some of the insights found
+
+- 	VISUALISING THE NUMBER OF STARTUPS BY STATUS
+The data discovery process started by visualising the number of start-ups arranged according to their status. This gives a basic idea of the dataset's organisation and the distribution of the various start-up statuses.
+![Startup Image](/Startup11/img/Picture2.png)
+
+- 	VISUALISING THE NUMBER OF STARTUPS BY FUNDING ROUNDS
+An important part of a start-up’s life is the funding rounds. It was vital to determine how each firm had fared in terms of financing by visualising the distribution of start-ups according to their funding rounds.
+![Startup Image](/Startup11/img/Picture3.png)
+
+- 	VISUALISING TOP COUNTRIES WITH MOST STARTUPS
+Geographical distribution can reveal regional characteristics that affect the emergence and success of start-ups. the aim was to find such geographical patterns by visualising the top countries with the most start-ups.
+![Startup Image](/Startup11/img/Picture4.png)
+
+- COMPREHENSIVE DASHBOARD SHOWING VISUALISATIONS IN TABLEAU
+  ![Startup Image](/Startup11/img/startup.jpeg)
+
+
+
