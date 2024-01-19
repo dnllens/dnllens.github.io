@@ -16,4 +16,4 @@
     
 #### Methodology
 - The project involved a series of steps:
-![Startup Image](/Startup/img/startup.jpeg)
+![Startup Image](/Startup/img/"Picture 1.png")
