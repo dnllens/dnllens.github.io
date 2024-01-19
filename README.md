@@ -7,8 +7,8 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 
 
 
-## Projects
-### Predicting Business Success Using Machine Learning and Data Analysis
+# Projects
+## Predicting Business Success Using Machine Learning and Data Analysis
 - This project aims to develop a Machine Learning model that predicts the success of startups accros the world. The prediction is based on various features including total funding received, location, and funding rounds. The model was developed after an extensive review of existing literature discussing the factors influencing startup success and the role of Machine Learning in business predictions.
   
 #### Data
@@ -19,22 +19,31 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 ![Startup Image](/Startup11/img/Picture1.png)
 
 #### Analysis and Visualisation
-- In Order to better understand the dataset, Analysis where carried out on the data and here are some of the insights found
+- In Order to better understand the dataset, Analysis where carried out on the data and important insights were discovered. Below is a dashboard showing the visualisations found in Tableau:
 
-- 	VISUALISING THE NUMBER OF STARTUPS BY STATUS
-The data discovery process started by visualising the number of start-ups arranged according to their status. This gives a basic idea of the dataset's organisation and the distribution of the various start-up statuses.
-![Startup Image](/Startup11/img/Picture2.png)
-
-- 	VISUALISING THE NUMBER OF STARTUPS BY FUNDING ROUNDS
-An important part of a start-up’s life is the funding rounds. It was vital to determine how each firm had fared in terms of financing by visualising the distribution of start-ups according to their funding rounds.
-![Startup Image](/Startup11/img/Picture3.png)
-
-- 	VISUALISING TOP COUNTRIES WITH MOST STARTUPS
-Geographical distribution can reveal regional characteristics that affect the emergence and success of start-ups. the aim was to find such geographical patterns by visualising the top countries with the most start-ups.
-![Startup Image](/Startup11/img/Picture4.png)
-
-- COMPREHENSIVE DASHBOARD SHOWING VISUALISATIONS IN TABLEAU
   ![Startup Image](/Startup11/img/startup.jpeg)
+
+  #### Result
+  - The trained model was integrated into a user-friendly web application using Streamlit to help various stakeholders in making data-driven decisions, thus reducing the risks associated with startup investments and contributing to the growth of a successful startup ecosystem.
+
+
+
+## 2016 Wind Industry Health and Safety Incident Analysis
+- This project contains data, analysis scripts, and visualizations for health and safety incidents that occurred in the wind industry during 2016. The project's goal is to uncover patterns, understand risk factors, and enhance safety standards within the industry.
+
+#### Data
+- The dataset comprises recorded incidents from the wind industry in the year 2016, capturing various aspects such as incident type, severity, and outcomes.
+
+#### Methodology
+##### Data Preprocessing
+- Tool Used: Python
+- Description: Raw data was cleaned and preprocessed using Python to ensure consistency and prepare it for analysis. This involved handling missing values, standardizing date formats, and categorizing incidents.
+##### Data Analysis
+- Tool Used: SQL
+- Description: Using SQL, the preprocessed data was analyzed to extract insights. The analysis focused on identifying incident trends, common types of incidents, and their potential for causing harm.
+##### Data Visualization
+- Tool Used: Power BI
+- Description: Interactive dashboards and visualizations were created in Power BI, providing an intuitive representation of the analysis results.
 
 
 
