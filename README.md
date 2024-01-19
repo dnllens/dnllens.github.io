@@ -9,7 +9,7 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 
 # Projects
 
-## Predicting Business Success Using Machine Learning and Data Analysis
+## 1. Predicting Business Success Using Machine Learning and Data Analysis
 - This project aims to develop a Machine Learning model that predicts the success of startups accros the world. The prediction is based on various features including total funding received, location, and funding rounds. The model was developed after an extensive review of existing literature discussing the factors influencing startup success and the role of Machine Learning in business predictions.
   
 #### Data
@@ -31,7 +31,7 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 
 
 
-## 2016 Wind Industry Health and Safety Incident Analysis
+## 2. 2016 Wind Industry Health and Safety Incident Analysis
 - This project contains data, analysis scripts, and visualisations for health and safety incidents that occurred in the wind industry during 2016 within the UK and EU. The project's goal is to uncover patterns, understand risk factors, and enhance safety standards within the industry.
 
 #### Data
@@ -63,12 +63,12 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 - In terms of the potential of a incident occuring, 16% of incidents that were marked as NOT having a high potential actually resulted in serious injuries.
 
 
-## PREDICTING THE SEVERITY OF ROAD ACCIDENTS IN THE UK
+## 3. PREDICTING THE SEVERITY OF ROAD ACCIDENTS IN THE UK
 
 - This project aims to predict accident severity using traditional machine learning algorithms and neural networks. The dataset used in this project is derived from the UK Department for Transport, consisting of road accidents in the UK from 2005 to 2014.
 
 #### Overview
-- The project consists of four main parts:
+- This project consists of four main parts:
 
 - Data Preprocessing
 - Classification using Traditional Machine Learning
@@ -81,7 +81,10 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 - Data cleaning: removing duplicates, handling missing values, and correcting inconsistencies.
 - Feature engineering: creating new features and transforming existing ones to improve model performance.
 - Data splitting: dividing the dataset into training and testing sets.
-- 
+- Over Sampling: Oversampling method was used to balance the distribution of the target variable in the training set. Synthetic Minority Over-sampling Technique (SMOTE) is used to resolve any class imbalances in the dataset. 
+This action helps the model perform better when applied to underrepresented classes. 
+![image](https://github.com/dnllens/dnllens.github.io/assets/67906668/ae44b08c-b1e9-48d1-bea3-444792a99a7a)
+
 #### Classification using Traditional Machine Learning
 - Several traditional machine learning algorithms were employed to classify accident severity into three categories: "fatal," "serious," and "slight." The classification algorithms used were:
 
