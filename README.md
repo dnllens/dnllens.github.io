@@ -35,15 +35,22 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 - The dataset comprises recorded incidents from the wind industry in the year 2016, capturing various aspects such as incident type, severity, and outcomes.
 
 #### Methodology
-##### Data Preprocessing
+
+#### Data Preprocessing
 - Tool Used: Python
 - Description: Raw data was cleaned and preprocessed using Python to ensure consistency and prepare it for analysis. This involved handling missing values, standardizing date formats, and categorizing incidents.
-##### Data Analysis
+
+  
+#### Data Analysis
 - Tool Used: SQL
 - Description: Using SQL, the preprocessed data was analyzed to extract insights. The analysis focused on identifying incident trends, common types of incidents, and their potential for causing harm.
-##### Data Visualization
+
+- 
+#### Data Visualization
 - Tool Used: Power BI
 - Description: Interactive dashboards and visualizations were created in Power BI, providing an intuitive representation of the analysis results.
+  ![Startup Image](/safetyon/img2.png)
+  ![Startup Image](/safetyon/img1.png)
 
 
 
