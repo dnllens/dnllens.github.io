@@ -15,3 +15,5 @@
   - The data for this project was collected from a public dataset on Kaggle. The "Big Start-up Success/Fail Dataset from Crunchbase" is a comprehensive database containing a variety of statistics about start-ups around the world. The dataset, which has 66,368 entries total across 14 variables, offers a wealth of information for study and analysis.
     
 #### Methodology
+- The project involved a series of steps:
+![Startup Image](/Startup/img/startup.jpeg)
