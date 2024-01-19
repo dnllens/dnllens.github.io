@@ -8,4 +8,4 @@
 
 
 ## Projects
-- 	Start-up Success Prediction: Developed and integrated a machine learning algorithm to predict the success rate of new start-ups and integrate it into a web application, utilising Python, TensorFlow, and Streamlit
+- 	Start-up Success Prediction: Developed and integrated a machine learning algorithm to predict the success rate of new start-ups and integrate it into a web application, utilising Python, TensorFlow, and Streamlit.
