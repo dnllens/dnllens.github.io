@@ -29,7 +29,7 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 
 
 ## 2016 Wind Industry Health and Safety Incident Analysis
-- This project contains data, analysis scripts, and visualizations for health and safety incidents that occurred in the wind industry during 2016. The project's goal is to uncover patterns, understand risk factors, and enhance safety standards within the industry.
+- This project contains data, analysis scripts, and visualisations for health and safety incidents that occurred in the wind industry during 2016 within the UK and EU. The project's goal is to uncover patterns, understand risk factors, and enhance safety standards within the industry.
 
 #### Data
 - The dataset comprises recorded incidents from the wind industry in the year 2016, capturing various aspects such as incident type, severity, and outcomes.
@@ -45,12 +45,20 @@ I'm seeking a position as a data analyst and I am excited to put my broad skill 
 - Tool Used: SQL
 - Description: Using SQL, the preprocessed data was analyzed to extract insights. The analysis focused on identifying incident trends, common types of incidents, and their potential for causing harm.
 
-- 
+  
 #### Data Visualization
 - Tool Used: Power BI
 - Description: Interactive dashboards and visualizations were created in Power BI, providing an intuitive representation of the analysis results.
   ![Startup Image](/safetyon/img2.png)
   ![Startup Image](/safetyon/img1.png)
+
+#### Result
+- From the above dashboard, the UK is seen to have much more incidents than the EU, even though they worked less hours that year. We also see a difference in the work processes that resulted in the most incidents.
+
+Out of the 983 incidents in 2016, 11.8% resulted in a serious consequence. However only 10 ( 1% of total incidents) required emergency medical evacuation. There were also no fatalities that year. 
+
+In terms of the potential of a incident occuring, 16% of incidents that were marked as NOT having a high potential actually resulted in serious injuries. 
+
 
 
 
